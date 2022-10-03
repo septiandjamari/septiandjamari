@@ -1,3 +1,5 @@
+بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+
 - 👋 Hi, I’m @septiandjamari.
 - 👀 I’m interested in Fullstack Programming, and Data Science.
 - 🌱 I’m currently learning Flutter, React.js / React Native, Web (HTML, CSS, Javascript), Laravel, Python, and MySQL.
